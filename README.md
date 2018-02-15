@@ -1,6 +1,6 @@
 # Mastering-ROS-for-Robotics-Programming-Second-Edition
 
-This is the code repository for [Mastering ROS for Robotics Programming - Second Edition]https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition?utm_source=github&utm_medium=repository&utm_content=9781788478953). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Mastering ROS for Robotics Programming - Second Edition](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition?utm_source=github&utm_medium=repository&utm_content=9781788478953). It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## About the Book
 In today’s era, robotics has been gaining a lot of traction in various industries where consistency and perfection matters most. Automation plays a major role in our world, and most of this is achieved via robotic applications and various platforms that support robotics. The Robot Operating System (ROS) is a modular software platform to develop generic robotic applications. This book focuses on the most stable release of ROS (Kinetic Kame), discusses the advanced concepts in robotics, and shows you how to program using ROS.
