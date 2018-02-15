@@ -25,6 +25,6 @@ The code will look like the following:
 ```
 
 
-## Related Embedded Linux Programming Products
+## Related Mastering-ROS-for-Robotics-Programming
 
 
