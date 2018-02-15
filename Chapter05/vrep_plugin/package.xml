@@ -1,0 +1,33 @@
+<package>
+  <name>vrep_plugin</name>
+  <description>V-REP plugin for ROS interface working with ROS Kinetic</description>
+  <maintainer email="jonathan.cacace@gmail.com">Jonathan Cacace</maintainer>
+  <version>3.3.0</version>
+  <author>Marc</author>
+  <license>GPLv3</license>
+  <url>http://www.coppeliarobotics.com</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>libopencv-dev</build_depend>
+  <build_depend>vrep_common</build_depend>
+  <build_depend>image_transport</build_depend>
+  <build_depend>tf</build_depend>
+	<build_depend>opencv2</build_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>libopencv-dev</run_depend>
+  <run_depend>image_transport</run_depend>
+  <run_depend>tf</run_depend>
+  <run_depend>brics_actuator</run_depend>
+  <run_depend>cv_bridge</run_depend>
+  <run_depend>perception_pcl</run_depend>
+  <run_depend>rosconsole</run_depend>
+  <run_depend>roslib</run_depend>
+  <run_depend>opencv2</run_depend>
+
+</package>
+
+

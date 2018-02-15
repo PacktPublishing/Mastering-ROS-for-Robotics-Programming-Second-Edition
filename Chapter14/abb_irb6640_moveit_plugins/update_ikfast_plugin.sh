@@ -1,0 +1,1 @@
+rosrun moveit_kinematics create_ikfast_moveit_plugin.py abb_irb6640 manipulator abb_irb6640_moveit_plugins /home/jcacace/ros_ws/src/MASTERING_ROS/ch13/abb_irb6640_moveit_plugins/src/abb_irb6640_manipulator_ikfast_solver.cpp

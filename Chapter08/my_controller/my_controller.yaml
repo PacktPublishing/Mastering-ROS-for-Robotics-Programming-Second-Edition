@@ -1,0 +1,3 @@
+my_controller_name:
+  type: my_controller_ns/MyControllerClass
+  joint_name: elbow_pitch_joint

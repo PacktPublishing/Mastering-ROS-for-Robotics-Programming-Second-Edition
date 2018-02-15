@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<launch>
+  <!-- Launch Gazebo  -->
+  <include file="$(find my_controller)/launch/seven_dof_arm_world.launch" />   
+  <!-- Load joint controller configurations from YAML file to parameter server -->
+  <rosparam file="$(find my_controller)/my_controller.yaml" command="load"/>
+	<!-- Spaw the controller -->
+  <node name="my_controller_spawner" pkg="controller_manager" type="spawner" respawn="false"
+	output="screen" args="my_controller_name"/>
+</launch>

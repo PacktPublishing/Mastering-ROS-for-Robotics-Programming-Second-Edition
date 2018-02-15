@@ -1,0 +1,4 @@
+LIBRARY publisher_cgxe.mexw64
+EXPORTS
+mexFunction
+mexfilerequiredapiversion
